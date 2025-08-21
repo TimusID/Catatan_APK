@@ -1,0 +1,124 @@
+{
+  "project_info": {
+    "project_number": "321453346120",
+    "project_id": "catatanpribadi-5de43",
+    "storage_bucket": "catatanpribadi-5de43.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321453346120:android:8167339b9abfe94f76f77d",
+        "android_client_info": {
+          "package_name": "com.catatanpribadi.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJgVFxO465rOiy2n4ApHx7p1vjGjehL4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321453346120:android:47bf121d4754c6f376f77d",
+        "android_client_info": {
+          "package_name": "com.example.catatan_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJgVFxO465rOiy2n4ApHx7p1vjGjehL4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321453346120:android:65a789c6ab58f80b76f77d",
+        "android_client_info": {
+          "package_name": "com.example.catatan_pribadi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJgVFxO465rOiy2n4ApHx7p1vjGjehL4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321453346120:android:2035f020a2514c1b76f77d",
+        "android_client_info": {
+          "package_name": "com.example.catatanapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJgVFxO465rOiy2n4ApHx7p1vjGjehL4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321453346120:android:d28b534badcdcd5a76f77d",
+        "android_client_info": {
+          "package_name": "com.example.catatanpribadi_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJgVFxO465rOiy2n4ApHx7p1vjGjehL4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:321453346120:android:26ce613e9ec36f3e76f77d",
+        "android_client_info": {
+          "package_name": "com.example.firebase_latihan"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJgVFxO465rOiy2n4ApHx7p1vjGjehL4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
